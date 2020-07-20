@@ -32,5 +32,5 @@ Dale click a "Siguiente"
 7. Arrastra el ícono de Pycharm CE al folder de aplicaciones en la ventana que se abre cuando le diste click.
 8. ¡Listo!
 
-## Ubuntu
-Si usas Ubuntu te debes acostumbrar a buscar tutoriales en línea y seguirlos. Te recomiendo que busques un tutorial en línea y sigas las instrucciones para descargar Python3 y pip3. Pycharm CE lo puedes descargar e instalar facilmente desde la aplicación de Ubuntu Software.
+## Linux
+Si usas Linux te debes acostumbrar a buscar tutoriales en línea y seguirlos. Te recomiendo que busques un tutorial en línea y sigas las instrucciones para descargar Python3, Pip3 y Pycharm CE.
