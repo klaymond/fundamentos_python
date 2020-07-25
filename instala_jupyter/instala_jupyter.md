@@ -14,4 +14,4 @@ Jupyter nos permite fácilmente crear un servidor local en nuestra computadora c
     ```shell script
     jupyter notebook
     ```
-5. Esto debe de abrir una pestaña en tu navegador predeterminado. Haz click en el folder de Notebooks y ya puedes empezar el curso!
+5. Esto debe de abrir una pestaña en tu navegador predeterminado. Haz click en el folder de Notebooks y ya puedes empezar el curso!al a
