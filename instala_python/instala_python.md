@@ -21,7 +21,7 @@ Dale click a "Siguiente"
 11. Cuando se termine de instalar dale click en "Correr Pycharm" y "Finalizar":  
 ![Finalizar Windows 10](https://www.guru99.com/images/Pythonnew/Python2.11.png)  
 12. ¡Listo!
-
+ 
 ## MacOS
 1. Descarga Python [aquí](https://www.python.org/ftp/python/3.8.4/python-3.8.4-macosx10.9.pkg)
 2. Dale click al archivo descargado.
