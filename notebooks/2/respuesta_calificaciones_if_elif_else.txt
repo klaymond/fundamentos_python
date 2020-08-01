@@ -1,1 +1,1 @@
-Si el alumno no presenta algún examen entonces reprueba esa materia y no se gradúa. Intenta cambiar el algoritmo para que la presentación de los exámenes sea la primera condición.
+Si el alumno no presenta algún examen entonces reprueba esa materia y no se gradúa. Intenta cambiar el algoritmo para que la presentación de los exmenes sea la primera condición.
